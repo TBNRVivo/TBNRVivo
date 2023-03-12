@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TBNRVivo
-- 👀 I’m interested in Gaming, Music, Sports, etc.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Making games, Learning coding, etc.
-- 📫 How to Reach me... Use Discord! TBNRVivo#1919 | Mind the Caps!
+- 👀 I’m interested in Coding, Music, Sports, etc.
+- 🌱 I’m currently learning Copywriting.
+- 💞️ I’m looking to collaborate on Coding Projects.
+- 📫 How to Reach me... Reach me via 'vkexodius.business@gmail.com'
 
 <!---
 TBNRVivo/TBNRVivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
